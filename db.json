@@ -1,0 +1,94 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Apple Frangipan Tart",
+      "img": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Apple & Blackberry Crumble",
+      "img": "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Apam balik",
+      "img": "https://www.themealdb.com/images/media/meals/adxcbq1619787919.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Ayam Percik",
+      "img": "https://www.themealdb.com/images/media/meals/020z181619788503.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Bakewell tart",
+      "img": "https://www.themealdb.com/images/media/meals/wyrqqq1468233628.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Bread and Butter Pudding",
+      "img": "https://www.themealdb.com/images/media/meals/xqwwpy1483908697.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Beef Wellington",
+      "img": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Baingan Bharta",
+      "img": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Beef Brisket Pot Roast",
+      "img": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Beef Sunday Roast",
+      "img": "https://www.themealdb.com/images/media/meals/ssrrrs1503664277.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Braised Beef Chilli",
+      "img": "https://www.themealdb.com/images/media/meals/uuqvwu1504629254.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Beef stroganoff",
+      "img": "https://www.themealdb.com/images/media/meals/svprys1511176755.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Broccoli & Stilton soup",
+      "img": "https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Bean & Sausage Hotpot",
+      "img": "https://www.themealdb.com/images/media/meals/vxuyrx1511302687.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Banana Pancakes",
+      "img": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Beef Dumpling Stew",
+      "img": "https://www.themealdb.com/images/media/meals/uyqrrv1511553350.jpg"
+    },
+    {
+      "name": "Chocolate Gateau",
+      "img": "https://www.themealdb.com/images/media/meals/tqtywx1468317395.jpg",
+      "id": "OzzCdYm"
+    },
+    {
+      "name": "Chicken Enchilada Casserole",
+      "img": "https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg",
+      "id": "ShHI8as"
+    }
+  ]
+}
