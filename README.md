@@ -1,5 +1,5 @@
 # Functionality
-- Loading recipes data from self-created json-server
+- Loading recipes data from json-server
 - Adding new recipe
 - Adding recipe to favorites
 - Searching by recipes
