@@ -8,6 +8,7 @@
 -  React
 -  TypeScript
 -  Redux Toolkit
+-  RTK Query
 -  React Router Dom
 -  JSON Server
 -  React Icons
