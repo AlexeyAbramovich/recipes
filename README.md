@@ -12,6 +12,7 @@
 -  React Router Dom
 -  JSON Server
 -  React Icons
+-  Vite
 
 # How to run
 Open 2 terminals:
