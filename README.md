@@ -20,4 +20,5 @@ Open 2 terminals:
 - in second terminal paste ```npm run dev```
 # Preview
 
-![image](https://github.com/AlexeyAbramovich/recipes/assets/74393859/5801804c-f539-4931-b03e-d9875111e5e1)
+![image](https://github.com/user-attachments/assets/c164be98-0e8f-473b-8bf9-422d168e304f)
+
