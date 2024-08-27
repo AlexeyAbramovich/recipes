@@ -13,6 +13,8 @@
 -  JSON Server
 -  React Icons
 -  Vite
+-  HTML
+-  CSS
 
 # How to run
 Open 2 terminals:
